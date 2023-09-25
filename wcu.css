@@ -1,0 +1,16 @@
+.wcu-section-heading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.wcu-section-description{
+    font-family: "Roboto";
+    font-size: 16px;
+    color:#5a7184;
+}
+
+.wcu-card{
+    background-color: white;
+}

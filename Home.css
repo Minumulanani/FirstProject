@@ -1,0 +1,73 @@
+.banner-section-container {
+    background-image: url('https://img.freepik.com/free-vector/vegetables-shopping-realistic-concept-with-shopping-cart-goods-vector-illustration_1284-16246.jpg?w=740&t=st=1695481805~exp=1695482405~hmac=122d70757c66ecfcb825f08e60becf288f6a833dd77acecbf91c7dd1131de0c8');
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-heading {
+    font-weight: bold;
+    font-size: 25px;
+    font-weight: 300;
+    font-family: "Roboto";
+}
+
+.custom-button {
+    font-family: "Roboto";
+    font-weight: bold;
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: hsl(51, 100%, 41%);
+    border-width: 0px;
+    border-radius: 8px;
+    margin-right: 10px;
+
+}
+
+#grocery {
+    font-family: "Roboto";
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.custom-outline-button {
+    font-family: "Roboto";
+    font-weight: bold;
+    width: 120px;
+    height: 40px;
+    color: #e8e008;
+    background-color: transparent;
+    border-width: 1px;
+    border-radius: 8px;
+    margin-right: 10px;
+    border-style: solid;
+    border-color: hsl(51, 100%, 41%);
+}
+
+.banner-caption {
+    font-weight: bold;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: "Roboto";
+}
+
+#navItem1 {
+    color: #010509;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #080a0b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #060707;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #000509;
+    font-family: "Roboto";
+}
